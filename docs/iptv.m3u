@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0,DLDVS 1
-http://208.122.3.2:9000
-#EXTINF:0,DLDVS 2
-http://208.122.3.2:8700
-#EXTINF:0,DLDVS 3
-http://208.122.3.2:9500
 #EXTINF:0,XXX-VOD European 18
 http://video.mystreamservice.com/480p/1001590.mp4
 #EXTINF:0,XXX-VOD European 11
